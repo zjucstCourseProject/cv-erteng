@@ -1,3 +1,0 @@
-imdata = imread('IMG_2012.JPG')
-imshow(imdata)
-text(60, 2800, '×Þ¼ÑÀ¤21951159', 'color', 'r', 'FontSize', 30)
